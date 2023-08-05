@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+}
+.container-topo{
+    position: relative;
+    height: 50px;
+    background-color: blue;
+}
+.container-topo div{
+    position: absolute;
+    width: 100px;
+    margin: 15px 0 0 30px;
+    color: white;
+    font-size: 20px;
+}
+.container-titulo{
+    width: 380px;
+    margin: 30px auto;
+}
+.container-titulo h1{
+    margin-bottom: 20px;
+    color: blue;
+}
+.container-titulo p{
+    line-height: 30px;
+}
+fieldset{
+    width: 400px;
+    height: 300px;
+    margin: 20px 485px;
+    display: flex;
+    flex-direction: column;
+}
+label{
+    margin: 20px 0;
+}
+input{
+    height: 40px;
+}
+button{
+    margin: 20px 0 0 480px;
+    width: 440px;
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+}
+footer span{
+    font-size:  20px;
+    color: blue;
+}
+footer{
+    margin: 50px 0 0 600px;
+}
+
